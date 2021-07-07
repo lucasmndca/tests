@@ -1,0 +1,15 @@
+{
+  "name": "entities",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Wizard.js",
+  "scripts": {
+    "test": "mocha 'src/tests/**/*Spec.js'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.4"
+  }
+}
